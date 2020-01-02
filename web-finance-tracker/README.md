@@ -25,3 +25,4 @@ git add web-finance-tracker
 git commit -m "feat: initialize Flask finance tracker"
 
 # update 5 - docs: update README usage
+# update 14 - docs: update README usage
