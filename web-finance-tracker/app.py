@@ -37,3 +37,4 @@ if __name__ == '__main__':
 # update 2 - fix: form validation bug
 # update 3 - fix: form validation bug
 # update 4 - fix: float parsing for amount
+# update 6 - feat: add income/expense labels
