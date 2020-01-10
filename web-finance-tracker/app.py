@@ -34,3 +34,4 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 # update 0 - feat: add income/expense labels
+# update 2 - fix: form validation bug
