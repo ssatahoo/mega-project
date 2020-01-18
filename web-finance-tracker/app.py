@@ -44,3 +44,4 @@ if __name__ == '__main__':
 # update 13 - feat: add income/expense labels
 # update 15 - refactor: extract data functions
 # update 16 - feat: add transaction form
+# update 17 - feat: add income/expense labels
