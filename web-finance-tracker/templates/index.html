@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Finance Tracker</title>
+</head>
+<body>
+  <h1>My Finance Tracker</h1>
+  <h2>Total: ${{ total }}</h2>
+
+  <form action="/add" method="post">
+    <input name="description" placeholder="Description" required>
+    <input name="amount" type="number" step="0.01" placeholder="Amount" required>
+    <button type="submit">Add Transaction</button>
+  </form>
+
+  <ul>
+    {% for t in transactions %}
+      <li>{{ t.description }}: ${{ t.amount }}</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
+
+# update 1 - style: improve layout
