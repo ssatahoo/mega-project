@@ -50,3 +50,4 @@ if __name__ == '__main__':
 # update 30 - fix: form validation bug
 # update 31 - fix: form validation bug
 # update 32 - fix: float parsing for amount
+# update 35 - chore: cleanup
