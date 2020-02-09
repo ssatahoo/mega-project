@@ -28,3 +28,4 @@ git commit -m "feat: initialize Flask finance tracker"
 # update 14 - docs: update README usage
 # update 18 - docs: update README usage
 # update 19 - docs: update README usage
+# update 27 - docs: update README usage
