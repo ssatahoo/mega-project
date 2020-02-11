@@ -40,3 +40,4 @@ if __name__ == '__main__':
 # update 6 - feat: add income/expense labels
 # update 7 - feat: add income/expense labels
 # update 8 - feat: add transaction form
+# update 11 - fix: form validation bug
