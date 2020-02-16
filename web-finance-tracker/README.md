@@ -1,0 +1,27 @@
+# Web Finance Tracker 💰
+
+A simple Flask web app to track income and expenses.
+
+## Features
+- Add income/expenses
+- View total balance
+- Stores data in JSON
+- Clean HTML interface
+
+## Run it
+
+```bash
+pip install flask
+python app.py
+
+
+---
+
+### ✅ Step 5: Commit Initial Code
+
+```bash
+cd ~/mega-project
+git add web-finance-tracker
+git commit -m "feat: initialize Flask finance tracker"
+
+# update 5 - docs: update README usage
