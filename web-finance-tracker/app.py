@@ -48,3 +48,4 @@ if __name__ == '__main__':
 # update 24 - refactor: extract data functions
 # update 25 - fix: float parsing for amount
 # update 30 - fix: form validation bug
+# update 31 - fix: form validation bug
