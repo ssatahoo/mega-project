@@ -115,3 +115,4 @@ if __name__ == "__main__":
 # commit 65 - refactor: break out functions
 # commit 66 - feat: show total issues found
 # commit 68 - fix: ignore hidden files
+# commit 69 - feat: add long path detection
