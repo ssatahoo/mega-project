@@ -112,3 +112,4 @@ if __name__ == "__main__":
 # commit 61 - feat: add missing file checker
 # commit 62 - feat: add missing file checker
 # commit 64 - fix: ignore hidden files
+# commit 65 - refactor: break out functions
