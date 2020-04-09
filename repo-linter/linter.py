@@ -65,3 +65,4 @@ if __name__ == "__main__":
 # commit 2 - fix: ignore hidden files
 # commit 3 - feat: add long path detection
 # commit 5 - feat: add missing file checker
+# commit 6 - fix: ignore hidden files
