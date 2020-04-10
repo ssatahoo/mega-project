@@ -100,3 +100,4 @@ if __name__ == "__main__":
 # commit 47 - feat: add long path detection
 # commit 48 - feat: add long path detection
 # commit 49 - refactor: break out functions
+# commit 50 - feat: add missing file checker
