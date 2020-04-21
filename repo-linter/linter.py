@@ -69,3 +69,4 @@ if __name__ == "__main__":
 # commit 7 - feat: show total issues found
 # commit 8 - fix: unicode path bug
 # commit 9 - refactor: break out functions
+# commit 10 - feat: add forbidden file check
