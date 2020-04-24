@@ -77,3 +77,4 @@ if __name__ == "__main__":
 # commit 19 - feat: add long path detection
 # commit 20 - feat: show total issues found
 # commit 21 - feat: show total issues found
+# commit 22 - feat: add missing file checker
