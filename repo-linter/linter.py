@@ -83,3 +83,4 @@ if __name__ == "__main__":
 # commit 27 - feat: add long path detection
 # commit 28 - feat: add missing file checker
 # commit 29 - feat: add forbidden file check
+# commit 30 - chore: clean print statements
