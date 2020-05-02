@@ -119,3 +119,4 @@ if __name__ == "__main__":
 # commit 70 - feat: add missing file checker
 # commit 71 - refactor: break out functions
 # commit 73 - feat: add forbidden file check
+# commit 74 - feat: add forbidden file check
