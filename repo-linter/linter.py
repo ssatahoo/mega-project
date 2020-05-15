@@ -81,3 +81,4 @@ if __name__ == "__main__":
 # commit 23 - fix: unicode path bug
 # commit 25 - feat: add forbidden file check
 # commit 27 - feat: add long path detection
+# commit 28 - feat: add missing file checker
