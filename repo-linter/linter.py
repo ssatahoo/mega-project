@@ -87,3 +87,4 @@ if __name__ == "__main__":
 # commit 31 - refactor: break out functions
 # commit 32 - feat: add forbidden file check
 # commit 34 - feat: add missing file checker
+# commit 35 - feat: show total issues found
