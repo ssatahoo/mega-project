@@ -74,3 +74,4 @@ if __name__ == "__main__":
 # commit 15 - refactor: break out functions
 # commit 16 - feat: add missing file checker
 # commit 18 - feat: add missing file checker
+# commit 19 - feat: add long path detection
