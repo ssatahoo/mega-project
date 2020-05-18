@@ -85,3 +85,4 @@ if __name__ == "__main__":
 # commit 29 - feat: add forbidden file check
 # commit 30 - chore: clean print statements
 # commit 31 - refactor: break out functions
+# commit 32 - feat: add forbidden file check
