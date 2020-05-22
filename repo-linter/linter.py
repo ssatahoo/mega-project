@@ -79,3 +79,4 @@ if __name__ == "__main__":
 # commit 21 - feat: show total issues found
 # commit 22 - feat: add missing file checker
 # commit 23 - fix: unicode path bug
+# commit 25 - feat: add forbidden file check
