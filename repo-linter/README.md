@@ -23,3 +23,4 @@ git add repo-linter
 git commit -m "feat: add basic repo linter CLI"
 
 # commit 12 - docs: update usage section
+# commit 14 - docs: update usage section
