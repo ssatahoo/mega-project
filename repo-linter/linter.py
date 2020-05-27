@@ -61,3 +61,4 @@ if __name__ == "__main__":
     check_path_length(target)
 
 # commit 0 - feat: add missing file checker
+# commit 1 - feat: show total issues found
