@@ -90,3 +90,4 @@ if __name__ == "__main__":
 # commit 35 - feat: show total issues found
 # commit 36 - feat: add missing file checker
 # commit 37 - refactor: break out functions
+# commit 38 - feat: add long path detection
