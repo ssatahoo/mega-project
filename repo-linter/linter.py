@@ -64,3 +64,4 @@ if __name__ == "__main__":
 # commit 1 - feat: show total issues found
 # commit 2 - fix: ignore hidden files
 # commit 3 - feat: add long path detection
+# commit 5 - feat: add missing file checker
