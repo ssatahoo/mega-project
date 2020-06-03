@@ -121,3 +121,4 @@ if __name__ == "__main__":
 # commit 73 - feat: add forbidden file check
 # commit 74 - feat: add forbidden file check
 # commit 75 - chore: clean print statements
+# commit 77 - feat: add long path detection
