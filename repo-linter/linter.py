@@ -94,3 +94,4 @@ if __name__ == "__main__":
 # commit 39 - refactor: break out functions
 # commit 40 - refactor: break out functions
 # commit 41 - refactor: break out functions
+# commit 42 - feat: add long path detection
