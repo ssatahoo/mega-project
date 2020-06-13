@@ -70,3 +70,4 @@ if __name__ == "__main__":
 # commit 8 - fix: unicode path bug
 # commit 9 - refactor: break out functions
 # commit 10 - feat: add forbidden file check
+# commit 13 - chore: clean print statements
