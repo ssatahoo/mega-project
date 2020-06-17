@@ -98,3 +98,4 @@ if __name__ == "__main__":
 # commit 44 - chore: clean print statements
 # commit 46 - fix: ignore hidden files
 # commit 47 - feat: add long path detection
+# commit 48 - feat: add long path detection
