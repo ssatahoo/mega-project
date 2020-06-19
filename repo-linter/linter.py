@@ -104,3 +104,4 @@ if __name__ == "__main__":
 # commit 51 - feat: add missing file checker
 # commit 52 - feat: add forbidden file check
 # commit 53 - feat: add missing file checker
+# commit 55 - feat: add long path detection
