@@ -28,3 +28,4 @@ git commit -m "feat: add basic repo linter CLI"
 # commit 26 - docs: update usage section
 # commit 33 - docs: update usage section
 # commit 43 - docs: update usage section
+# commit 45 - docs: update usage section
