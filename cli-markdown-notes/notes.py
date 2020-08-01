@@ -49,3 +49,4 @@ if __name__ == "__main__":
 
 # update 4 - refactor: improve command structure
 # update 5 - docs: update usage guide
+# update 8 - test: add basic tests for create
