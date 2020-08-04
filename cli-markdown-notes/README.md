@@ -19,3 +19,4 @@ git add cli-markdown-notes
 git commit -m "feat: add markdown notes CLI tool with create/list/view"
 
 # update 0 - fix: bug in file naming
+# update 2 - docs: update usage guide
