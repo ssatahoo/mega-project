@@ -20,3 +20,4 @@ git commit -m "feat: add initial HN scraper and data folder"
 # update 7 - docs: explain JSON format
 # update 10 - fix: error on empty headline list
 # update 13 - chore: move scraped data to subfolder
+# update 14 - feat: add matplotlib plot
