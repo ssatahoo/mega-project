@@ -23,3 +23,4 @@ if __name__ == "__main__":
 # update 3 - refactor: separate save function
 # update 9 - docs: explain JSON format
 # update 15 - fix: error on empty headline list
+# update 17 - feat: add TechCrunch scrape support
