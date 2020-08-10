@@ -21,3 +21,4 @@ if __name__ == "__main__":
     save_titles(titles)
 
 # update 3 - refactor: separate save function
+# update 9 - docs: explain JSON format
