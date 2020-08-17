@@ -24,3 +24,4 @@ if __name__ == "__main__":
 # update 9 - docs: explain JSON format
 # update 15 - fix: error on empty headline list
 # update 17 - feat: add TechCrunch scrape support
+# update 21 - feat: analyze word frequency
