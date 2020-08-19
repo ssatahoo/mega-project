@@ -25,3 +25,4 @@ if __name__ == "__main__":
 # update 15 - fix: error on empty headline list
 # update 17 - feat: add TechCrunch scrape support
 # update 21 - feat: analyze word frequency
+# update 23 - refactor: separate save function
