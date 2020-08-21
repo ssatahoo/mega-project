@@ -24,3 +24,4 @@ git commit -m "feat: add initial HN scraper and data folder"
 # update 16 - fix: error on empty headline list
 # update 19 - refactor: separate save function
 # update 20 - refactor: separate save function
+# update 22 - feat: analyze word frequency
