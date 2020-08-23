@@ -51,3 +51,4 @@ if __name__ == "__main__":
 # update 5 - docs: update usage guide
 # update 8 - test: add basic tests for create
 # update 11 - feat: add note search
+# update 27 - refactor: improve command structure
