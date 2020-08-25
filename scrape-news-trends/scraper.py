@@ -28,3 +28,4 @@ if __name__ == "__main__":
 # update 23 - refactor: separate save function
 # update 24 - docs: explain JSON format
 # update 25 - feat: add TechCrunch scrape support
+# update 29 - feat: add TechCrunch scrape support
