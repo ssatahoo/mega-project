@@ -53,3 +53,4 @@ if __name__ == "__main__":
 # update 11 - feat: add note search
 # update 27 - refactor: improve command structure
 # update 28 - feat: auto-timestamp notes
+# update 32 - style: format CLI output
