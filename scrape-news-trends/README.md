@@ -25,3 +25,4 @@ git commit -m "feat: add initial HN scraper and data folder"
 # update 19 - refactor: separate save function
 # update 20 - refactor: separate save function
 # update 22 - feat: analyze word frequency
+# update 30 - docs: explain JSON format
