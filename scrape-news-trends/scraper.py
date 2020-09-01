@@ -30,3 +30,4 @@ if __name__ == "__main__":
 # update 25 - feat: add TechCrunch scrape support
 # update 29 - feat: add TechCrunch scrape support
 # update 33 - feat: analyze word frequency
+# update 36 - refactor: separate save function
