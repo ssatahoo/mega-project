@@ -24,3 +24,4 @@ git commit -m "feat: add markdown notes CLI tool with create/list/view"
 # update 12 - test: add basic tests for create
 # update 18 - feat: add note search
 # update 26 - fix: bug in file naming
+# update 34 - fix: bug in file naming
