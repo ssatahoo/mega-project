@@ -32,3 +32,4 @@ if __name__ == "__main__":
 # update 33 - feat: analyze word frequency
 # update 36 - refactor: separate save function
 # update 37 - fix: error on empty headline list
+# update 40 - refactor: separate save function
