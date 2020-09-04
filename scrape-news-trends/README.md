@@ -28,3 +28,4 @@ git commit -m "feat: add initial HN scraper and data folder"
 # update 30 - docs: explain JSON format
 # update 31 - fix: error on empty headline list
 # update 35 - refactor: separate save function
+# update 38 - fix: error on empty headline list
