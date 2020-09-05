@@ -34,3 +34,4 @@ if __name__ == "__main__":
 # update 37 - fix: error on empty headline list
 # update 40 - refactor: separate save function
 # update 41 - feat: add matplotlib plot
+# update 47 - chore: move scraped data to subfolder
