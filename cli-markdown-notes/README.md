@@ -26,3 +26,4 @@ git commit -m "feat: add markdown notes CLI tool with create/list/view"
 # update 26 - fix: bug in file naming
 # update 34 - fix: bug in file naming
 # update 44 - docs: update usage guide
+# update 45 - docs: update usage guide
