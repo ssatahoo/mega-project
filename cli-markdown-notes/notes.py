@@ -55,3 +55,4 @@ if __name__ == "__main__":
 # update 28 - feat: auto-timestamp notes
 # update 32 - style: format CLI output
 # update 42 - style: format CLI output
+# update 49 - docs: update usage guide
