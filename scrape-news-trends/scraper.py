@@ -39,3 +39,4 @@ if __name__ == "__main__":
 # update 50 - feat: analyze word frequency
 # update 51 - feat: add TechCrunch scrape support
 # update 52 - feat: analyze word frequency
+# update 53 - feat: add TechCrunch scrape support
