@@ -37,3 +37,4 @@ if __name__ == "__main__":
 # update 47 - chore: move scraped data to subfolder
 # update 48 - docs: explain JSON format
 # update 50 - feat: analyze word frequency
+# update 51 - feat: add TechCrunch scrape support
