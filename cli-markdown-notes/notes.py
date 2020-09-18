@@ -56,3 +56,4 @@ if __name__ == "__main__":
 # update 32 - style: format CLI output
 # update 42 - style: format CLI output
 # update 49 - docs: update usage guide
+# update 54 - style: format CLI output
